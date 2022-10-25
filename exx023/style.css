@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+table {
+    width: 500px;
+    border-collapse: separate;
+}
+tr.linha {
+    background-color: gray;
+}
+th {
+    border: 1px solid black;
+    padding: 8px;
+}
+th.dado {
+    background-color: yellow;
+}
